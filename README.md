@@ -11,4 +11,4 @@
 5. `python main.py` 輸入完帳號密碼後，即可在 `contact.json` 觀察結果
 
 ## License  
-[License]: https://github.com/qaz5823091/NCYU_Student_Number/blob/main/LICENSE
+[License](https://github.com/qaz5823091/NCYU_Student_Number/blob/main/LICENSE)
